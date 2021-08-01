@@ -17,48 +17,44 @@ class Projects extends React.Component {
                 <Row xs={1} md={4} className="g-4">
                         <Col>
                             <Card className="hover border-0">
-                                <Card.Img variant="top" src={ux} className="p-4"/>
+                                <Card.Img variant="top" src={ux} className="p-4 img-fluid" alt="Responsive image"/>
                                 <Card.Body>
                                     <Card.Title>UX/UI</Card.Title>
                                     <Card.Text>
-                                        This is a longer card with supporting text below as a natural
-                                        lead-in to additional content. This content is a little bit longer.
+                                        Realizando prototipos de baja y alta calidad hasta llegar al producto final.
                                     </Card.Text>
                                 </Card.Body>
                             </Card>
                         </Col>
                         <Col>
                             <Card className="hover border-0">
-                                <Card.Img variant="top" src={web} className="p-4" />
+                                <Card.Img variant="top" src={web} className="p-4 img-fluid" alt="Responsive image" />
                                 <Card.Body>
                                     <Card.Title>Programador Web/Mobile</Card.Title>
                                     <Card.Text>
-                                        This is a longer card with supporting text below as a natural
-                                        lead-in to additional content. This content is a little bit longer.
+                                        Participando en diversos proyectos pensados para ser visualizados en diversos dispositivos.
                                     </Card.Text>
                                 </Card.Body>
                             </Card>
                         </Col>
                         <Col>
                             <Card className="hover border-0">
-                                <Card.Img variant="top" src={BackEnd} className="p-4" />
+                                <Card.Img variant="top" src={BackEnd} className="p-4 img-fluid" alt="Responsive image" />
                                 <Card.Body>
                                     <Card.Title>BackEnd</Card.Title>
                                     <Card.Text>
-                                        This is a longer card with supporting text below as a natural
-                                        lead-in to additional content. This content is a little bit longer.
+                                        Utilizando técnologias emergentes como Node Js y usando arquitecturas compactas como ser MVC.
                                     </Card.Text>
                                 </Card.Body>
                             </Card>
                         </Col>
                         <Col>
                             <Card className="hover border-0">
-                                <Card.Img variant="top" src={FontEnd} className="p-4" />
+                                <Card.Img variant="top" src={FontEnd} className="p-4 img-fluid" alt="Responsive image" />
                                 <Card.Body>
                                     <Card.Title>FrontEnd</Card.Title>
                                     <Card.Text>
-                                        This is a longer card with supporting text below as a natural
-                                        lead-in to additional content. This content is a little bit longer.
+                                        Realizando prototipos y plasmandolos en código utilizando estrategías para lograr un UI adaptable y amigable para el usuario final.
                                     </Card.Text>
                                 </Card.Body>
                             </Card>
@@ -72,8 +68,7 @@ class Projects extends React.Component {
                                 <Card.Body>
                                     <Card.Title>Trello</Card.Title>
                                     <Card.Text>
-                                        This is a longer card with supporting text below as a natural
-                                        lead-in to additional content. This content is a little bit longer.
+                                        Desempeño total en trello, utilizandolo para un mejor seguimientos de asignaciones.
                                     </Card.Text>
                                 </Card.Body>
                             </Card>
@@ -84,8 +79,7 @@ class Projects extends React.Component {
                                 <Card.Body>
                                     <Card.Title>Scrum</Card.Title>
                                     <Card.Text>
-                                        This is a longer card with supporting text below as a natural
-                                        lead-in to additional content. This content is a little bit longer.
+                                        Acostumbrado a esta metodología agíl la cual permite gestionar mejor a un grupo de trabajo.
                                     </Card.Text>
                                 </Card.Body>
                             </Card>
@@ -96,8 +90,7 @@ class Projects extends React.Component {
                                 <Card.Body>
                                     <Card.Title>Slack</Card.Title>
                                     <Card.Text>
-                                        This is a longer card with supporting text below as a natural
-                                        lead-in to additional content. This content is a little bit longer.
+                                        Para la comunicación entre compañeros de trabajo y realizar seguimientos a las actualizaciones de los repositorios.
                                     </Card.Text>
                                 </Card.Body>
                             </Card>
