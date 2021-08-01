@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Portofolio/static/css/main.75e9dc7d.chunk.css",
-    "main.js": "/Portofolio/static/js/main.261f6372.chunk.js",
-    "main.js.map": "/Portofolio/static/js/main.261f6372.chunk.js.map",
-    "runtime-main.js": "/Portofolio/static/js/runtime-main.d81c8216.js",
-    "runtime-main.js.map": "/Portofolio/static/js/runtime-main.d81c8216.js.map",
+    "main.js": "/Portofolio/static/js/main.13b49f20.chunk.js",
+    "main.js.map": "/Portofolio/static/js/main.13b49f20.chunk.js.map",
+    "runtime-main.js": "/Portofolio/static/js/runtime-main.7fadfba3.js",
+    "runtime-main.js.map": "/Portofolio/static/js/runtime-main.7fadfba3.js.map",
     "static/css/2.455652b6.chunk.css": "/Portofolio/static/css/2.455652b6.chunk.css",
-    "static/js/2.af6f3727.chunk.js": "/Portofolio/static/js/2.af6f3727.chunk.js",
-    "static/js/2.af6f3727.chunk.js.map": "/Portofolio/static/js/2.af6f3727.chunk.js.map",
-    "static/js/3.641b7e01.chunk.js": "/Portofolio/static/js/3.641b7e01.chunk.js",
-    "static/js/3.641b7e01.chunk.js.map": "/Portofolio/static/js/3.641b7e01.chunk.js.map",
+    "static/js/2.2a8323cd.chunk.js": "/Portofolio/static/js/2.2a8323cd.chunk.js",
+    "static/js/2.2a8323cd.chunk.js.map": "/Portofolio/static/js/2.2a8323cd.chunk.js.map",
+    "static/js/3.1b901ac3.chunk.js": "/Portofolio/static/js/3.1b901ac3.chunk.js",
+    "static/js/3.1b901ac3.chunk.js.map": "/Portofolio/static/js/3.1b901ac3.chunk.js.map",
     "index.html": "/Portofolio/index.html",
     "static/css/2.455652b6.chunk.css.map": "/Portofolio/static/css/2.455652b6.chunk.css.map",
     "static/css/main.75e9dc7d.chunk.css.map": "/Portofolio/static/css/main.75e9dc7d.chunk.css.map",
-    "static/js/2.af6f3727.chunk.js.LICENSE.txt": "/Portofolio/static/js/2.af6f3727.chunk.js.LICENSE.txt",
+    "static/js/2.2a8323cd.chunk.js.LICENSE.txt": "/Portofolio/static/js/2.2a8323cd.chunk.js.LICENSE.txt",
     "static/media/FrontEnd.d9e1e005.png": "/Portofolio/static/media/FrontEnd.d9e1e005.png",
     "static/media/Grintsys.fbc7304f.png": "/Portofolio/static/media/Grintsys.fbc7304f.png",
     "static/media/Leitz.f427c2e6.png": "/Portofolio/static/media/Leitz.f427c2e6.png",
@@ -21,13 +21,17 @@
     "static/media/Scrum.9555b72d.png": "/Portofolio/static/media/Scrum.9555b72d.png",
     "static/media/Slack-Logo.99b11663.png": "/Portofolio/static/media/Slack-Logo.99b11663.png",
     "static/media/Trello-Logo.785c7cb6.png": "/Portofolio/static/media/Trello-Logo.785c7cb6.png",
+    "static/media/erp1.632cb975.jpg": "/Portofolio/static/media/erp1.632cb975.jpg",
+    "static/media/erp2.d9191f07.jpg": "/Portofolio/static/media/erp2.d9191f07.jpg",
+    "static/media/hdc.2092c959.png": "/Portofolio/static/media/hdc.2092c959.png",
+    "static/media/sc1.444768fd.jpg": "/Portofolio/static/media/sc1.444768fd.jpg",
     "static/media/web-dev.8628fabc.png": "/Portofolio/static/media/web-dev.8628fabc.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d81c8216.js",
+    "static/js/runtime-main.7fadfba3.js",
     "static/css/2.455652b6.chunk.css",
-    "static/js/2.af6f3727.chunk.js",
+    "static/js/2.2a8323cd.chunk.js",
     "static/css/main.75e9dc7d.chunk.css",
-    "static/js/main.261f6372.chunk.js"
+    "static/js/main.13b49f20.chunk.js"
   ]
 }
