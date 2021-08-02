@@ -8,6 +8,9 @@ class Presentation extends React.Component {
         return (
             <div className="card border-0 px-5 bg-transparent">
                 <div className="row no-gutters align-items-center">
+                <div className="col-md-7 h-100 p-4">
+                        <img  src={profile} className="card-img"></img>
+                    </div>
                     <div className="col-md-5">
                         <div className="card-body">
                             <h1 className="card-title pt-1">Hola, mi nombre es Deyvi Tabora</h1>
@@ -48,9 +51,7 @@ class Presentation extends React.Component {
                             </div>
                         </div>
                     </div>
-                    <div className="col-md-7 h-100 p-4">
-                        <img  src={profile} className="card-img"></img>
-                    </div>
+                    
                 </div>
             </div>
         )

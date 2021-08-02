@@ -18,6 +18,8 @@
     "react-scripts": "4.0.3",
     "react-scroll-parallax": "^2.4.0",
     "react-scroll-up-button": "^1.6.4",
+    "react-simple-image-viewer": "^1.0.0",
+    "react-spring": "^9.2.4",
     "web-vitals": "^1.1.2"
   },
   "scripts": {

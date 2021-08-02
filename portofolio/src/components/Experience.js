@@ -1,14 +1,12 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.css';
 import { Card, CardGroup, Container } from 'react-bootstrap'
-import Grintsys from '../img/Grintsys.png';
-import Leitz from '../img/Leitz.png';
 
 class Experience extends React.Component {
     render() {
         return (
             <Container className="spacing">
-                <h2>Experiencia Laboral</h2>
+                <h2 className="pb-2">Experiencia Laboral</h2>
                 <CardGroup>
                     <Card>
                         {/* <Card.Img variant="top" src={Grintsys} /> */}
