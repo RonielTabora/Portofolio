@@ -1,29 +1,29 @@
 {
   "files": {
     "main.css": "/Portofolio/static/css/main.041c372f.chunk.css",
-    "main.js": "/Portofolio/static/js/main.d53b14bd.chunk.js",
-    "main.js.map": "/Portofolio/static/js/main.d53b14bd.chunk.js.map",
-    "runtime-main.js": "/Portofolio/static/js/runtime-main.4814ab4b.js",
-    "runtime-main.js.map": "/Portofolio/static/js/runtime-main.4814ab4b.js.map",
-    "static/css/2.455652b6.chunk.css": "/Portofolio/static/css/2.455652b6.chunk.css",
-    "static/js/2.dbddfcbb.chunk.js": "/Portofolio/static/js/2.dbddfcbb.chunk.js",
-    "static/js/2.dbddfcbb.chunk.js.map": "/Portofolio/static/js/2.dbddfcbb.chunk.js.map",
-    "static/js/3.cad55be5.chunk.js": "/Portofolio/static/js/3.cad55be5.chunk.js",
-    "static/js/3.cad55be5.chunk.js.map": "/Portofolio/static/js/3.cad55be5.chunk.js.map",
+    "main.js": "/Portofolio/static/js/main.edad7063.chunk.js",
+    "main.js.map": "/Portofolio/static/js/main.edad7063.chunk.js.map",
+    "runtime-main.js": "/Portofolio/static/js/runtime-main.96d2c72d.js",
+    "runtime-main.js.map": "/Portofolio/static/js/runtime-main.96d2c72d.js.map",
+    "static/css/2.47fb1125.chunk.css": "/Portofolio/static/css/2.47fb1125.chunk.css",
+    "static/js/2.101d96d4.chunk.js": "/Portofolio/static/js/2.101d96d4.chunk.js",
+    "static/js/2.101d96d4.chunk.js.map": "/Portofolio/static/js/2.101d96d4.chunk.js.map",
+    "static/js/3.8a202af0.chunk.js": "/Portofolio/static/js/3.8a202af0.chunk.js",
+    "static/js/3.8a202af0.chunk.js.map": "/Portofolio/static/js/3.8a202af0.chunk.js.map",
     "index.html": "/Portofolio/index.html",
-    "static/css/2.455652b6.chunk.css.map": "/Portofolio/static/css/2.455652b6.chunk.css.map",
+    "static/css/2.47fb1125.chunk.css.map": "/Portofolio/static/css/2.47fb1125.chunk.css.map",
     "static/css/main.041c372f.chunk.css.map": "/Portofolio/static/css/main.041c372f.chunk.css.map",
-    "static/js/2.dbddfcbb.chunk.js.LICENSE.txt": "/Portofolio/static/js/2.dbddfcbb.chunk.js.LICENSE.txt",
+    "static/js/2.101d96d4.chunk.js.LICENSE.txt": "/Portofolio/static/js/2.101d96d4.chunk.js.LICENSE.txt",
     "static/media/Profile.fb10a18d.jpeg": "/Portofolio/static/media/Profile.fb10a18d.jpeg",
     "static/media/Scrum.9555b72d.png": "/Portofolio/static/media/Scrum.9555b72d.png",
     "static/media/Slack-Logo.99b11663.png": "/Portofolio/static/media/Slack-Logo.99b11663.png",
     "static/media/Trello-Logo.785c7cb6.png": "/Portofolio/static/media/Trello-Logo.785c7cb6.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4814ab4b.js",
-    "static/css/2.455652b6.chunk.css",
-    "static/js/2.dbddfcbb.chunk.js",
+    "static/js/runtime-main.96d2c72d.js",
+    "static/css/2.47fb1125.chunk.css",
+    "static/js/2.101d96d4.chunk.js",
     "static/css/main.041c372f.chunk.css",
-    "static/js/main.d53b14bd.chunk.js"
+    "static/js/main.edad7063.chunk.js"
   ]
 }
