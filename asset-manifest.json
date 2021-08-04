@@ -1,23 +1,20 @@
 {
   "files": {
-    "main.css": "/Portofolio/static/css/main.13f5bea1.chunk.css",
-    "main.js": "/Portofolio/static/js/main.a28d1a5e.chunk.js",
-    "main.js.map": "/Portofolio/static/js/main.a28d1a5e.chunk.js.map",
-    "runtime-main.js": "/Portofolio/static/js/runtime-main.6b151c80.js",
-    "runtime-main.js.map": "/Portofolio/static/js/runtime-main.6b151c80.js.map",
+    "main.css": "/Portofolio/static/css/main.a165b2b5.chunk.css",
+    "main.js": "/Portofolio/static/js/main.c24b0578.chunk.js",
+    "main.js.map": "/Portofolio/static/js/main.c24b0578.chunk.js.map",
+    "runtime-main.js": "/Portofolio/static/js/runtime-main.dee39cf8.js",
+    "runtime-main.js.map": "/Portofolio/static/js/runtime-main.dee39cf8.js.map",
     "static/css/2.439412cb.chunk.css": "/Portofolio/static/css/2.439412cb.chunk.css",
-    "static/js/2.04f04de9.chunk.js": "/Portofolio/static/js/2.04f04de9.chunk.js",
-    "static/js/2.04f04de9.chunk.js.map": "/Portofolio/static/js/2.04f04de9.chunk.js.map",
-    "static/js/3.b24e90b2.chunk.js": "/Portofolio/static/js/3.b24e90b2.chunk.js",
-    "static/js/3.b24e90b2.chunk.js.map": "/Portofolio/static/js/3.b24e90b2.chunk.js.map",
+    "static/js/2.0772507b.chunk.js": "/Portofolio/static/js/2.0772507b.chunk.js",
+    "static/js/2.0772507b.chunk.js.map": "/Portofolio/static/js/2.0772507b.chunk.js.map",
+    "static/js/3.b734a3dd.chunk.js": "/Portofolio/static/js/3.b734a3dd.chunk.js",
+    "static/js/3.b734a3dd.chunk.js.map": "/Portofolio/static/js/3.b734a3dd.chunk.js.map",
     "index.html": "/Portofolio/index.html",
     "static/css/2.439412cb.chunk.css.map": "/Portofolio/static/css/2.439412cb.chunk.css.map",
-    "static/css/main.13f5bea1.chunk.css.map": "/Portofolio/static/css/main.13f5bea1.chunk.css.map",
-    "static/js/2.04f04de9.chunk.js.LICENSE.txt": "/Portofolio/static/js/2.04f04de9.chunk.js.LICENSE.txt",
-    "static/media/Profile.fb10a18d.jpeg": "/Portofolio/static/media/Profile.fb10a18d.jpeg",
-    "static/media/Scrum.9555b72d.png": "/Portofolio/static/media/Scrum.9555b72d.png",
-    "static/media/Slack-Logo.99b11663.png": "/Portofolio/static/media/Slack-Logo.99b11663.png",
-    "static/media/Trello-Logo.785c7cb6.png": "/Portofolio/static/media/Trello-Logo.785c7cb6.png",
+    "static/css/main.a165b2b5.chunk.css.map": "/Portofolio/static/css/main.a165b2b5.chunk.css.map",
+    "static/js/2.0772507b.chunk.js.LICENSE.txt": "/Portofolio/static/js/2.0772507b.chunk.js.LICENSE.txt",
+    "static/media/bg.33622388.png": "/Portofolio/static/media/bg.33622388.png",
     "static/media/erp1.632cb975.jpg": "/Portofolio/static/media/erp1.632cb975.jpg",
     "static/media/erp2.d9191f07.jpg": "/Portofolio/static/media/erp2.d9191f07.jpg",
     "static/media/hdc.2092c959.png": "/Portofolio/static/media/hdc.2092c959.png",
@@ -27,10 +24,10 @@
     "static/media/slick-theme.css": "/Portofolio/static/media/slick.c94f7671.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.6b151c80.js",
+    "static/js/runtime-main.dee39cf8.js",
     "static/css/2.439412cb.chunk.css",
-    "static/js/2.04f04de9.chunk.js",
-    "static/css/main.13f5bea1.chunk.css",
-    "static/js/main.a28d1a5e.chunk.js"
+    "static/js/2.0772507b.chunk.js",
+    "static/css/main.a165b2b5.chunk.css",
+    "static/js/main.c24b0578.chunk.js"
   ]
 }
