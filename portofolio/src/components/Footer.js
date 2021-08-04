@@ -30,10 +30,10 @@ class Footer extends React.Component {
                                         <span class="footer-title">Contactame</span>
                                     </li>
                                     <li class="nav-item">
-                                        <span class="nav-link"><TelephoneFill color="white" size={15} /> +504 9849-2849</span>
+                                        <span class="copyright"><TelephoneFill color="white" size={15} /> +504 9849-2849</span>
                                     </li>
                                     <li class="nav-item">
-                                        <span class="nav-link" href="#"><EnvelopeFill color="white" size={15} /> taborapaz@gmail.com</span>
+                                        <span class="copyright"><EnvelopeFill color="white" size={15} /> taborapaz@gmail.com</span>
                                     </li>
                                 </ul>
                             </div>

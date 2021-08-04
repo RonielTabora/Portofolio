@@ -7,6 +7,8 @@ import Skills from './components/Skills';
 import Experience from './components/Experience';
 import Footer from './components/Footer';
 import { Fade, Slide } from 'react-reveal';
+import Media from './components/Media';
+import Education from './components/Education';
 
 
 function App() {
@@ -29,6 +31,11 @@ function App() {
           <Experience />
         </div>
       </Fade>
+      <div>
+      <h1 className="pt-2 teme-color">Formación Academica</h1>
+      <Education/>
+      </div>
+      <Media />
       <Footer />
     </div>
   );

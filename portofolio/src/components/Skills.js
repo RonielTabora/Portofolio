@@ -5,8 +5,8 @@ import { Card, ProgressBar, Container, Row } from 'react-bootstrap'
 class Skills extends React.Component {
     render() {
         return (
-            <Container className="mt-4">
-                <div className="container">
+            <Container className="mt-4 ">
+                <div className="container teme-color">
                     <div className="row">
                     <h1>Skills</h1>
                         <div className="col">
@@ -14,7 +14,7 @@ class Skills extends React.Component {
                             <Row>
                                 <div className="p-4">
                                     <h4>Html</h4>
-                                    <ProgressBar now={100} label="100%" />
+                                    <ProgressBar now={100} label="100%" className="bg-color" />
                                 </div>
                             </Row>
                             <Row>
