@@ -18,9 +18,9 @@ class Footer extends React.Component {
                             <div class="col-md-4 box">
                             <div className="row d-flex justify-content-center">
                                 <row>
-                                <a href="https://www.facebook.com/grintsys/" className="p-2"><Linkedin color="White" size={30} /></a>
-                                <a href="https://www.youtube.com/channel/UCCr2Se-J173l36beanfXm0w"  className="p-2"><Github color="White" size={30} /></a>
-                                <a href="https://github.com/orgs/Grintsys"  className="p-2"><Facebook color="White" size={30} /></a>
+                                <a href="https://www.linkedin.com/in/deyvi-roniel-tabora-paz-29191b191/" className="p-2"><Linkedin color="White" size={30} /></a>
+                                <a href="https://github.com/RonielTabora"  className="p-2"><Github color="White" size={30} /></a>
+                                <a href="https://www.facebook.com/profile.php?id=100007589806347"  className="p-2"><Facebook color="White" size={30} /></a>
                                 </row>  
                             </div>
                             </div>

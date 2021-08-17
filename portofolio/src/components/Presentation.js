@@ -6,12 +6,12 @@ import { Linkedin, Facebook, Github, TelephoneFill, EnvelopeFill, HouseFill, Geo
 class Presentation extends React.Component {
     render() {
         return (
-            <div className="card border-0 px-5 bg-transparent">
+            <div id="home" className="card border-0 px-5 bg-transparent">
                 <div className="row no-gutters align-items-center">
-                    <div className="col-md-7 h-100 p-4 borders">
+                    <div className="col-md-6 h-100 borders">
                         <img src={profile} className="card-img"></img>
                     </div>
-                    <div className="col-md-5">
+                    <div className="col-md-6">
                         <div className="card-body teme-color">
                             <h1 className="card-title pt-1">Hola, mi nombre es Deyvi Tabora</h1>
                             <p className="card-text pt-2">Programador web, amante de las animaciones digitales y la tecnología.</p>

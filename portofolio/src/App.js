@@ -19,7 +19,7 @@ function App() {
         <Presentation />
       </Fade>
       <Slide bottom>
-        <div className="content-diferent">
+        <div className="content-diferent mt-4">
           <Projects />
         </div>
       </Slide>
@@ -32,10 +32,12 @@ function App() {
         </div>
       </Fade>
       <div>
-      <h1 className="pt-2 teme-color">Formación Academica</h1>
+      <h1 id="edu" className="pt-2 teme-color">Formación Academica</h1>
       <Education/>
       </div>
+      <div className="content-diferent">
       <Media />
+      </div>
       <Footer />
     </div>
   );

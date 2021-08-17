@@ -7,7 +7,7 @@ import { CodeSquare, Server, Laptop, Pencil } from 'react-bootstrap-icons';
 class Projects extends React.Component {
     render() {
         return (
-            <Container className="spacing teme-color">
+            <Container id="desem" className="spacing teme-color">
                 <h2 className="pb-2">Areas de desempeño</h2>
                 <Row xs={1} md={4} className="g-4">
                 <Slide bottom>

@@ -19,6 +19,14 @@ code {
   box-shadow: 0px 6px 15px 0px rgba(0,0,0,0.58);
 }
 
+.navbar-toggler-icon{
+  color: #1C2D50;
+}
+
+button{
+  margin-right: 10px;
+}
+
 .teme-color, .nav-link{
   color: #1C2D50 !important;
 }
@@ -154,4 +162,9 @@ footer .quick-links {
   height: calc(100% - 60px);
   top: 30px;
   left: 30px;
+}
+
+.img-p{
+  display: grid;
+  align-items: center;
 }

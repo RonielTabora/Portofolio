@@ -7,14 +7,14 @@ import { Book } from 'react-bootstrap-icons';
 class Education extends React.Component {
   render() {
     return (
-      <VerticalTimeline>
+      <VerticalTimeline >
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
           date="2020 – Actualmente"
           iconStyle={{ background: 'rgb(28, 45, 80)', color: '#fff' }}
           icon={<Book color="White" size={50} />}
         >
-          <h3 className="vertical-timeline-element-title teme-color">Ingenierian En Informatica</h3>
+          <h3 className="vertical-timeline-element-title teme-color">Ingenierian En Informática</h3>
           <h4 className="vertical-timeline-element-subtitle teme-color">Ceutec</h4>
           <p className="teme-color">
             San Pedro Sula, Cortés, Honduras
@@ -38,7 +38,7 @@ class Education extends React.Component {
           iconStyle={{ background: 'rgb(28, 45, 80)', color: '#fff' }}
           icon={<Book color="White" size={50} />}
         >
-          <h3 className="vertical-timeline-element-title teme-color">B.T.P. En Informatica</h3>
+          <h3 className="vertical-timeline-element-title teme-color">B.T.P. En Informática</h3>
           <h4 className="vertical-timeline-element-subtitle teme-color">Instituto Gubernamental El Zapotal</h4>
           <p className="teme-color">
             El Zapotal Del Norte, San Pedro Sula, Cortés, Honduras

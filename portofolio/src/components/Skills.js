@@ -5,7 +5,7 @@ import { Card, ProgressBar, Container, Row } from 'react-bootstrap'
 class Skills extends React.Component {
     render() {
         return (
-            <Container className="mt-4 ">
+            <Container id="skill" className="mt-4">
                 <div className="container teme-color">
                     <div className="row">
                     <h1>Skills</h1>
