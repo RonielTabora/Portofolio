@@ -1,7 +1,7 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.css';
 import { Card, Col, Container, Row } from 'react-bootstrap'
-import { Fade, Slide } from 'react-reveal';
+import { Slide } from 'react-reveal';
 import { CodeSquare, Server, Laptop, Pencil } from 'react-bootstrap-icons';
 
 class Projects extends React.Component {

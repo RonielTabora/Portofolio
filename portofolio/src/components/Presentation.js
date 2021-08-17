@@ -2,6 +2,7 @@ import React from 'react';
 import 'bootstrap/dist/css/bootstrap.css';
 import profile from '../img/bg.png';
 import { Linkedin, Facebook, Github, TelephoneFill, EnvelopeFill, HouseFill, GeoAltFill } from 'react-bootstrap-icons';
+import Image from 'react-bootstrap/Image'
 
 class Presentation extends React.Component {
     render() {
@@ -9,7 +10,7 @@ class Presentation extends React.Component {
             <div id="home" className="card border-0 px-5 bg-transparent">
                 <div className="row no-gutters align-items-center">
                     <div className="col-md-6 h-100 borders">
-                        <img src={profile} className="card-img"></img>
+                        <Image src={profile} className="card-img" fluid />
                     </div>
                     <div className="col-md-6">
                         <div className="card-body teme-color">

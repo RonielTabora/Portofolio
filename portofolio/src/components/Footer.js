@@ -1,6 +1,6 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.css';
-import { Linkedin, Facebook, Github, TelephoneFill, EnvelopeFill, HouseFill, GeoAltFill } from 'react-bootstrap-icons';
+import { Linkedin, Facebook, Github, TelephoneFill, EnvelopeFill } from 'react-bootstrap-icons';
 
 class Footer extends React.Component {
     render() {
