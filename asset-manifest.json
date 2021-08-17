@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Portofolio/static/css/main.38168820.chunk.css",
-    "main.js": "/Portofolio/static/js/main.4b7f09eb.chunk.js",
-    "main.js.map": "/Portofolio/static/js/main.4b7f09eb.chunk.js.map",
-    "runtime-main.js": "/Portofolio/static/js/runtime-main.b249a5a1.js",
-    "runtime-main.js.map": "/Portofolio/static/js/runtime-main.b249a5a1.js.map",
+    "main.js": "/Portofolio/static/js/main.ad8cce08.chunk.js",
+    "main.js.map": "/Portofolio/static/js/main.ad8cce08.chunk.js.map",
+    "runtime-main.js": "/Portofolio/static/js/runtime-main.e875e81d.js",
+    "runtime-main.js.map": "/Portofolio/static/js/runtime-main.e875e81d.js.map",
     "static/css/2.439412cb.chunk.css": "/Portofolio/static/css/2.439412cb.chunk.css",
-    "static/js/2.e6fe529e.chunk.js": "/Portofolio/static/js/2.e6fe529e.chunk.js",
-    "static/js/2.e6fe529e.chunk.js.map": "/Portofolio/static/js/2.e6fe529e.chunk.js.map",
-    "static/js/3.f136051d.chunk.js": "/Portofolio/static/js/3.f136051d.chunk.js",
-    "static/js/3.f136051d.chunk.js.map": "/Portofolio/static/js/3.f136051d.chunk.js.map",
+    "static/js/2.c178234e.chunk.js": "/Portofolio/static/js/2.c178234e.chunk.js",
+    "static/js/2.c178234e.chunk.js.map": "/Portofolio/static/js/2.c178234e.chunk.js.map",
+    "static/js/3.dfab4490.chunk.js": "/Portofolio/static/js/3.dfab4490.chunk.js",
+    "static/js/3.dfab4490.chunk.js.map": "/Portofolio/static/js/3.dfab4490.chunk.js.map",
     "index.html": "/Portofolio/index.html",
     "static/css/2.439412cb.chunk.css.map": "/Portofolio/static/css/2.439412cb.chunk.css.map",
     "static/css/main.38168820.chunk.css.map": "/Portofolio/static/css/main.38168820.chunk.css.map",
-    "static/js/2.e6fe529e.chunk.js.LICENSE.txt": "/Portofolio/static/js/2.e6fe529e.chunk.js.LICENSE.txt",
+    "static/js/2.c178234e.chunk.js.LICENSE.txt": "/Portofolio/static/js/2.c178234e.chunk.js.LICENSE.txt",
     "static/media/bg.33622388.png": "/Portofolio/static/media/bg.33622388.png",
     "static/media/erp1.632cb975.jpg": "/Portofolio/static/media/erp1.632cb975.jpg",
     "static/media/erp2.d9191f07.jpg": "/Portofolio/static/media/erp2.d9191f07.jpg",
@@ -26,10 +26,10 @@
     "static/media/slick-theme.css": "/Portofolio/static/media/slick.c94f7671.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.b249a5a1.js",
+    "static/js/runtime-main.e875e81d.js",
     "static/css/2.439412cb.chunk.css",
-    "static/js/2.e6fe529e.chunk.js",
+    "static/js/2.c178234e.chunk.js",
     "static/css/main.38168820.chunk.css",
-    "static/js/main.4b7f09eb.chunk.js"
+    "static/js/main.ad8cce08.chunk.js"
   ]
 }
