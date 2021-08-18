@@ -15,12 +15,13 @@ import sc4 from '../img/sc4.jpeg';
 class Media extends React.Component {
   render() {
     return (
-      <Container id="proj" className="pb-4 teme-color">
-        <h2 className="teme-color spacing"> Proyectos</h2>
+      <Container id="proj" className="pb-4 spacing teme-color">
+        <h1 className="teme-color">Proyectos</h1>
+        <div className="heading-line"></div>
         <Row xs={1} md={2} className="g-4">
           <div className="container img-p">
             <Col>
-              <Card className="teme-color">
+              <Card className="teme-color border-0 shadow-grid">
                 <Carousel variant="dark">
                   <Carousel.Item interval={500}>
                     <Card.Img variant="top" src={erp1} />
@@ -38,7 +39,7 @@ class Media extends React.Component {
               </Card>
             </Col>
             <Col>
-              <Card className="teme-color">
+              <Card className="teme-color border-0 shadow-grid">
                 <Carousel variant="dark">
                   <Carousel.Item interval={500}>
                     <Card.Img variant="top" src={hdc} />
@@ -61,7 +62,7 @@ class Media extends React.Component {
           </div>
 
           <Col>
-            <Card className="teme-color">
+            <Card className="teme-color border-0 shadow-grid">
               <Carousel variant="dark">
                 <Carousel.Item interval={500}>
                   <Card.Img variant="top" src={sc3} />
@@ -76,7 +77,7 @@ class Media extends React.Component {
               <Card.Body>
                 <Card.Title className="text-bold">Super Compra</Card.Title>
                 <Card.Text>
-                  Es un proyecto que cuenta con dos aplicaciones movil escritas en Flutter y usando .Net Core como servidor que almacena la información en una base de datos SQL.
+                  Es un proyecto que cuenta con dos aplicaciones móvil escritas en Flutter y usando .Net Core como servidor que almacena la información en una base de datos SQL.
                   Esta misma cuenta con una app web administrativa escrita en Angular Js.
                 </Card.Text>
               </Card.Body>

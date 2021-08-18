@@ -9,6 +9,7 @@ class Skills extends React.Component {
                 <div className="container teme-color">
                     <div className="row">
                     <h1>Skills</h1>
+                    <div className="heading-line"></div>
                         <div className="col">
                         <Card className="border-0">
                             <Row>

@@ -6,7 +6,8 @@ class Experience extends React.Component {
     render() {
         return (
             <Container id="expe" className="spacing teme-color">
-                <h2 className="pb-2">Experiencia Laboral</h2>
+                <h1>Experiencia Laboral</h1>
+                <div className="heading-line"></div>
                 <CardGroup>
                     <Card>
                         <Card.Body>

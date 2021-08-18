@@ -8,11 +8,12 @@ class Projects extends React.Component {
     render() {
         return (
             <Container id="desem" className="spacing teme-color">
-                <h2 className="pb-2">Areas de desempeño</h2>
+                <h1>Areas de desempeño</h1>
+                <div className="heading-line"></div>
                 <Row xs={1} md={4} className="g-4">
                 <Slide bottom>
                         <Col>
-                            <Card className="hover border-0">
+                            <Card className="hover border-0 shadow-grid">
                             <div className="pt-3">
                             <Pencil size={50} />
                             </div>
@@ -27,7 +28,7 @@ class Projects extends React.Component {
                 </Slide>
                 <Slide bottom>
                 <Col>
-                            <Card className="hover border-0">
+                            <Card className="hover border-0 shadow-grid">
                             <div className="pt-3">
                             <Laptop size={50} />
                             </div>
@@ -42,7 +43,7 @@ class Projects extends React.Component {
                 </Slide>
                 <Slide bottom>  
                         <Col>
-                            <Card className="hover border-0">
+                            <Card className="hover border-0 shadow-grid">
                             <div className="pt-3">
                             <Server size={50} />
                             </div>                                <Card.Body>
@@ -57,7 +58,7 @@ class Projects extends React.Component {
                     </Slide>
                     <Slide bottom>
                         <Col>
-                            <Card className="hover border-0">
+                            <Card className="hover border-0 shadow-grid">
                             <div className="pt-3">
                             <CodeSquare size={50} />
                             </div>
@@ -72,12 +73,13 @@ class Projects extends React.Component {
                 </Slide>
                 </Row>
                 <Container className="spacing">
-                    <h2>Para gestión de proyectos</h2>
+                    <h1>Para gestión de proyectos</h1>
+                    <div className="heading-line"></div>
                 </Container>
                 <Row xs={1} md={4} className="g-4 justify-content-center">
                 <Slide bottom>
                         <Col>
-                            <Card className="hover border-0">
+                            <Card className="hover border-0 shadow-grid">
                                 <Card.Body>
                                     <Card.Title className="text-bold">Trello</Card.Title>
                                     <Card.Text>
@@ -90,7 +92,7 @@ class Projects extends React.Component {
                     <Slide bottom>
 
                         <Col>
-                            <Card className="hover border-0">
+                            <Card className="hover border-0 shadow-grid">
                                 <Card.Body>
                                     <Card.Title className="text-bold">Scrum</Card.Title>
                                     <Card.Text>
@@ -102,7 +104,7 @@ class Projects extends React.Component {
                     </Slide>
                     <Slide bottom>
                         <Col>
-                            <Card className="hover border-0">
+                            <Card className="hover border-0 shadow-grid">
                                 <Card.Body>
                                     <Card.Title className="text-bold">Slack</Card.Title>
                                     <Card.Text>

@@ -15,9 +15,9 @@ function App() {
   return (
     <div className="App">
       <NavBar />
-      <Fade left>
+      {/* <Fade left> */}
         <Presentation />
-      </Fade>
+      {/* </Fade> */}
       <Slide bottom>
         <div className="content-diferent mt-4">
           <Projects />
@@ -33,6 +33,7 @@ function App() {
       </Fade>
       <div>
       <h1 id="edu" className="pt-2 teme-color">Formación Academica</h1>
+      <div className="heading-line"></div>
       <Education/>
       </div>
       <div className="content-diferent">

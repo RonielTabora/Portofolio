@@ -3,14 +3,44 @@ import 'bootstrap/dist/css/bootstrap.css';
 import profile from '../img/bg.png';
 import { Linkedin, Facebook, Github, TelephoneFill, EnvelopeFill, HouseFill, GeoAltFill } from 'react-bootstrap-icons';
 import Image from 'react-bootstrap/Image'
-import { Container, Row } from 'react-bootstrap';
+import { Container, Row, Col } from 'react-bootstrap';
 
 class Presentation extends React.Component {
     render() {
         return (
             // <div id="home" className="card border-0 px-5 bg-transparent">
             <Container>
-                <Row className="no-gutters align-items-center">
+                <Row xs={1} md={2} className="align-items-center p-4">
+                    <Col className="borders">
+                        <Image src={profile} className="card-img" fluid />
+                    </Col>
+                    <Col>
+                        <div className="card-body teme-color">
+                            <h1 className="card-title pt-1">Hola, mi nombre es Deyvi Tabora</h1>
+                            <p className="card-text pt-2">Programador web y mobile, amante de las animaciones digitales y la tecnología.</p>
+                            <div className="Container">
+                                <Row className="pb-2">
+                                    <Col><TelephoneFill size={20} /> +504 9849-2849</Col>
+                                </Row>
+                                <Row className="pb-2">
+                                    <Col><EnvelopeFill size={20} /> taborapaz@gmail.com</Col>
+                                </Row>
+                                <Row className="pb-2">
+                                    <Col><GeoAltFill size={20} /> El Zapotal Del Norte, San Pedro Sula, Cortés, Honduras</Col>
+                                </Row>
+                            </div>
+                            <h5 className="text-center pt-1">Más sobre mí</h5>
+                            <div className="row d-flex justify-content-center">
+                                <row>
+                                    <a href="https://www.linkedin.com/in/deyvi-roniel-tabora-paz-29191b191/" className="p-2"><Linkedin color="royalblue" size={30} /></a>
+                                    <a href="https://github.com/RonielTabora" className="p-2"><Github color="Black" size={30} /></a>
+                                    <a href="https://www.facebook.com/profile.php?id=100007589806347" className="p-2"><Facebook color="royalblue" size={30} /></a>
+                                </row>
+                            </div>
+                        </div>
+                    </Col>
+                </Row>
+                {/* <Row className="no-gutters align-items-center">
                     <div className="col-md-6 h-100 borders">
                         <Image src={profile} className="card-img" fluid />
                     </div>
@@ -54,8 +84,8 @@ class Presentation extends React.Component {
                             </div>
                         </div>
                     </div>
-                </Row>
-                </Container>
+                </Row> */}
+            </Container>
             // </div>
         )
     }
