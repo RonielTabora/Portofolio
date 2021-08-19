@@ -35,7 +35,7 @@ class Experience extends React.Component {
                         <Card.Body>
                             <Card.Title className="text-bold">IHSS (Práctica Profesional)</Card.Title>
                             <Card.Text>
-                                En mi práctica profesional fui asigando al area de IT especificamente para realizar mantenimiento preventivo y correctivo a los euipos computacionales de la institución.
+                                En mi práctica profesional fui asignado al área de IT específicamente para realizar mantenimiento preventivo y correctivo a los equipos computacionales de la institución.
                             </Card.Text>
                         </Card.Body>
                         <Card.Footer>

@@ -32,6 +32,12 @@ class Skills extends React.Component {
                             </Row>
                             <Row>
                                 <div className="p-4">
+                                    <h4>Bootstrap</h4>
+                                    <ProgressBar now={90} label="90%" />
+                                </div>
+                            </Row>
+                            <Row>
+                                <div className="p-4">
                                     <h4>Angular</h4>
                                     <ProgressBar now={60} label="60%" />
                                 </div>
@@ -74,6 +80,12 @@ class Skills extends React.Component {
                                 <div className="p-4">
                                     <h4>TypeScript</h4>
                                     <ProgressBar now={75} label="75%" />
+                                </div>
+                            </Row>
+                            <Row>
+                                <div className="p-4">
+                                    <h4>Paquete Microsoft Office</h4>
+                                    <ProgressBar now={90} label="90%" />
                                 </div>
                             </Row>
                             <Row>
