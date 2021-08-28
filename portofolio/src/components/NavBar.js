@@ -6,7 +6,7 @@ import Nav from 'react-bootstrap/Nav';
 class NavBar extends React.Component {
     render() {
         return (
-            <Navbar collapseOnSelect expand="lg" bg="white">
+            <Navbar collapseOnSelect expand="lg" bg="white" className="shadow-grid">
                 <Navbar.Brand className="mx-4 teme-color text-bold" >Portafolio</Navbar.Brand>
                 <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                 <Navbar.Collapse id="responsive-navbar-nav" className="justify-content-between">

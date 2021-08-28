@@ -192,3 +192,73 @@ footer .quick-links {
   display: grid;
   align-items: center;
 }
+
+.testimonials-clean {
+  color:#313437;
+}
+
+.testimonials-clean p {
+  color:#7d8285;
+}
+
+.testimonials-clean h2 {
+  font-weight:bold;
+  padding-top:40px;
+  color:inherit;
+}
+
+@media (max-width:767px) {
+  .testimonials-clean h2 {
+    padding-top:25px;
+    font-size:24px;
+  }
+}
+
+.testimonials-clean .intro {
+  font-size:16px;
+  max-width:500px;
+  margin:0 auto;
+}
+
+.testimonials-clean .intro p {
+  margin-bottom:0;
+}
+
+.testimonials-clean .people {
+  padding:30px 0 30px;
+}
+
+.testimonials-clean .item .box {
+  padding:30px;
+  background-color:white;
+  position:relative;
+  margin-bottom: 20px;
+  box-shadow: rgba(26, 82, 118, 0.4) -5px 5px, rgba(31, 97, 141, 0.3) -10px 10px, rgba(36, 113, 163, 0.2) -15px 15px, rgba(41, 128, 185, 0.1) -20px 20px, rgba(84, 153, 199, 0.05) -25px 25px;
+}
+
+.testimonials-clean .item .author {
+  padding-top:28px;
+  padding-left:10px;
+  padding-bottom: 28px;
+}
+
+.testimonials-clean .item .name {
+  font-weight:bold;
+  margin-bottom:2px;
+  color:inherit;
+}
+
+.testimonials-clean .item .title {
+  font-size:13px;
+  color:#9da9ae;
+}
+
+.testimonials-clean .item .description {
+  font-size:15px;
+  margin-bottom:0;
+}
+
+.testimonials-clean .item img {
+  max-width:60px;
+  margin-bottom: 10px;
+}

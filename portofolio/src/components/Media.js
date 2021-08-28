@@ -3,14 +3,22 @@ import 'bootstrap/dist/css/bootstrap.css';
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import { Container, Card, Col, Row, Carousel } from 'react-bootstrap';
-import erp1 from '../img/erp1.jpg';
-import erp2 from '../img/erp2.jpg';
+import erp1 from '../img/Captura.PNG';
+import erp2 from '../img/Captura1.PNG';
+import erp3 from '../img/Captura3.PNG';
+import erp4 from '../img/Captura4.PNG';
+import erp5 from '../img/Captura5.PNG';
 import hdc from '../img/hdc.png';
 import hdc2 from '../img/hdc2.png';
 import hdc3 from '../img/hdc3.png';
-import sc1 from '../img/sc1.jpg';
-import sc3 from '../img/sc3.jpeg';
-import sc4 from '../img/sc4.jpeg';
+import hdc4 from '../img/hdc4.png';
+import hdc5 from '../img/hdc5.png';
+import sc1 from '../img/sc1.jpeg';
+import sc2 from '../img/sc2.jpeg';
+import sc3 from '../img/sc7.jpeg';
+import sc4 from '../img/sc8.jpeg';
+import sc5 from '../img/sc5.jpeg';
+import sc6 from '../img/sc6.jpeg';
 
 class Media extends React.Component {
   render() {
@@ -23,11 +31,20 @@ class Media extends React.Component {
             <Col>
               <Card className="teme-color border-0 shadow-grid">
                 <Carousel variant="dark">
-                  <Carousel.Item interval={500}>
+                  <Carousel.Item>
                     <Card.Img variant="top" src={erp1} />
                   </Carousel.Item>
                   <Carousel.Item>
                     <Card.Img variant="top" src={erp2} />
+                  </Carousel.Item>
+                  <Carousel.Item >
+                    <Card.Img variant="top" src={erp3} />
+                  </Carousel.Item>
+                  <Carousel.Item>
+                    <Card.Img variant="top" src={erp4} />
+                  </Carousel.Item>
+                  <Carousel.Item>
+                    <Card.Img variant="top" src={erp5} />
                   </Carousel.Item>
                 </Carousel>
                 <Card.Body>
@@ -41,7 +58,7 @@ class Media extends React.Component {
             <Col>
               <Card className="teme-color border-0 shadow-grid">
                 <Carousel variant="dark">
-                  <Carousel.Item interval={500}>
+                  <Carousel.Item>
                     <Card.Img variant="top" src={hdc} />
                   </Carousel.Item>
                   <Carousel.Item>
@@ -49,6 +66,12 @@ class Media extends React.Component {
                   </Carousel.Item>
                   <Carousel.Item>
                     <Card.Img variant="top" src={hdc3} />
+                  </Carousel.Item>
+                  <Carousel.Item>
+                    <Card.Img variant="top" src={hdc4} />
+                  </Carousel.Item>
+                  <Carousel.Item>
+                    <Card.Img variant="top" src={hdc5} />
                   </Carousel.Item>
                 </Carousel>
                 <Card.Body>
@@ -64,14 +87,23 @@ class Media extends React.Component {
           <Col>
             <Card className="teme-color border-0 shadow-grid">
               <Carousel variant="dark">
-                <Carousel.Item interval={500}>
-                  <Card.Img variant="top" src={sc3} />
-                </Carousel.Item>
-                <Carousel.Item interval={500}>
+                <Carousel.Item>
                   <Card.Img variant="top" src={sc1} />
                 </Carousel.Item>
                 <Carousel.Item>
+                  <Card.Img variant="top" src={sc2} />
+                </Carousel.Item>
+                <Carousel.Item>
+                  <Card.Img variant="top" src={sc3} />
+                </Carousel.Item>
+                <Carousel.Item>
                   <Card.Img variant="top" src={sc4} />
+                </Carousel.Item>
+                <Carousel.Item>
+                  <Card.Img variant="top" src={sc5} />
+                </Carousel.Item>
+                <Carousel.Item>
+                  <Card.Img variant="top" src={sc6} />
                 </Carousel.Item>
               </Carousel>
               <Card.Body>

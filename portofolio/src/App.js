@@ -9,15 +9,16 @@ import Footer from './components/Footer';
 import { Fade, Slide } from 'react-reveal';
 import Media from './components/Media';
 import Education from './components/Education';
+import Testimonials from './components/Testimonials';
 
 
 function App() {
   return (
     <div className="App">
       <NavBar />
-      {/* <Fade left> */}
+      <Fade left>
         <Presentation />
-      {/* </Fade> */}
+      </Fade>
       <Slide bottom>
         <div className="content-diferent mt-4">
           <Projects />
@@ -39,6 +40,7 @@ function App() {
       <div className="content-diferent">
       <Media />
       </div>
+      <Testimonials/>
       <Footer />
     </div>
   );
